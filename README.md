@@ -1,6 +1,8 @@
-# caraoucoroa
+# Aplicativo do Jogo Cara Ou coroa para IOS e ANDROID 
 
-App cara ou coroa
+ - Implementado na linguagem dart e SDK Flutter.
+ - Imagens utilizadas no projeto foi disponibilizado pelo curso "Desenvolvimento Android e IOS com Flutter - Crie 12 Apps do professor Jamilton Damasceno".
+
 
 ## Getting Started
 
